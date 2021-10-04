@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 475 425" style="enable-background: new 0 0 475 425;" xml:space="preserve">
+    <style type="text/css">
+        .st0 {
+            fill: #383838;
+        }
+        .st1 {
+            font-family: "Roboto-Bold";
+        }
+        .st2 {
+            font-size: 14px;
+        }
+        .st3 {
+            fill: none;
+            stroke: #000000;
+            stroke-width: 0.5;
+            stroke-linecap: square;
+            stroke-miterlimit: 1;
+        }
+        .st4 {
+            fill: #231f20;
+            stroke: #231f20;
+            stroke-miterlimit: 10;
+        }
+        .st5 {
+            fill: #231f20;
+        }
+        .st6 {
+            font-family: "Roboto-Regular";
+        }
+        .st7 {
+            fill: #77787b;
+        }
+    </style>
+    <image style="overflow: visible; enable-background: new;" width="929" height="927" xlink:href="2.jpg" transform="matrix(0.4851 0 0 0.4851 5.6977 -16.6034)"></image>
+    <g>
+        <g>
+            
+        </g>
+    </g>
+    <g>
+        <g>
+            <g>
+                <path class="st3" d="M199.7,268.9c-1.2-6-7-10.1-13.1-9.1" />
+                <g>
+                    <polygon points="201.3,266.8 200.8,266.5 199.6,268.7 197.6,267.4 197.3,267.8 199.8,269.4 				" />
+                </g>
+            </g>
+        </g>
+        <path class="st4" d="M221.4,104.5c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S222.7,104.5,221.4,104.5" />
+        <path class="st4" d="M263.5,248.6c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5C266,249.7,264.9,248.6,263.5,248.6" />
+        <path class="st4" d="M92.2,346.1c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S93.5,346.1,92.2,346.1" />
+        <path class="st4" d="M307.7,129c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S309.1,129,307.7,129" />
+        <text transform="matrix(1 0 0 1 226.7814 111.823)" class="st5 st6 st2">Beijing</text>
+        <g>
+            <text transform="matrix(1 0 0 1 417.7782 155.0259)" class="st7 st6 st2">Tokyo</text>
+        </g>
+        <text transform="matrix(1 0 0 1 267.3242 135.2849)" class="st7 st6 st2">Seúl</text>
+        <text transform="matrix(1 0 0 1 31.9677 352.7959)" class="st7 st6 st2">Bangkok</text>
+        <text transform="matrix(1 0 0 1 113.9548 262.6707)" class="st5 st6 st2">Hong Kong</text>
+    </g>
+</svg>
