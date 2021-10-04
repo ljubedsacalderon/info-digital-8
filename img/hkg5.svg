@@ -54,10 +54,10 @@
         <path class="st4" d="M418.4,150c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S419.8,150,418.4,150" />
         <path class="st4" d="M98.7,348.1c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S100.1,348.1,98.7,348.1" />
         <path class="st4" d="M314.2,131c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S315.6,131,314.2,131" />
-        <text transform="matrix(1 0 0 1 235.3085 113.823)" class="st6 st7 st3">Beijing</text>
+        <text transform="matrix(1 0 0 1 235.3085 113.823)" class="st6 st7 st3">Pekín</text>
         <text transform="matrix(1 0 0 1 38.4949 354.7959)" class="st8 st7 st3">Bangkok</text>
         <g>
-            <text transform="matrix(1 0 0 1 423.3054 157.0259)" class="st8 st7 st3">Tokyo</text>
+            <text transform="matrix(1 0 0 1 423.3054 157.0259)" class="st8 st7 st3">Tokio</text>
         </g>
         <text transform="matrix(1 0 0 1 100.6277 249.9622)" class="st6 st7 st3">Hong Kong</text>
     </g>
